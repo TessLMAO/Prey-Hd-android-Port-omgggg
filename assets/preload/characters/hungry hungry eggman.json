@@ -1,0 +1,161 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-1100,
+				-240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "eggidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1230,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dialouge",
+			"indices": [],
+			"name": "eggdia"
+		},
+		{
+			"offsets": [
+				-1100,
+				-205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "eggup"
+		},
+		{
+			"offsets": [
+				-1100,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "eggdown"
+		},
+		{
+			"offsets": [
+				-1090,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "eggleft"
+		},
+		{
+			"offsets": [
+				-1100,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "eggright"
+		},
+		{
+			"offsets": [
+				-1100,
+				-260
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "eggright"
+		},
+		{
+			"offsets": [
+				-1090,
+				-220
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "eggleft"
+		},
+		{
+			"offsets": [
+				-1100,
+				-300
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "eggdown"
+		},
+		{
+			"offsets": [
+				-1100,
+				-205
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "eggup"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/boiled egg",
+	"position": [
+		600,
+		-190
+	],
+	"healthicon": "starved-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		36,
+		0
+	],
+	"camera_position": [
+		-720,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}
